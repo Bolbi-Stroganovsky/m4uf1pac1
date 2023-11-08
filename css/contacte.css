@@ -28,3 +28,12 @@ input{
 textarea{
     width: 60%;
 }
+button{
+    border: outset;
+    padding: 3px;
+    background-color: white;
+}
+button:hover{
+    border: inset;
+    background-color: rgb(191, 184, 184);
+}

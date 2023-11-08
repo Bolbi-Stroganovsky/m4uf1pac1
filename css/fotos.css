@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+    border-bottom: 2px black dotted;
+}
+img{
+    display: block;
+    float: left;
+    width: 50%;
+    max-height: 100vh;
+    border-radius: 5px;
+}
+#vertical{
+    max-height: 300vh;
+}
+#ultima{
+    width: 100%;
+    margin-bottom: 1em;
+}
