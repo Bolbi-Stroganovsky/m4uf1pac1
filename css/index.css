@@ -1,0 +1,20 @@
+div#foto{
+    display: block;
+    float: left;
+    width: 45%;
+    height: 85vh;
+}
+img{
+    border: 3px rgb(222, 61, 12) solid;
+    border-radius: 4px;
+    width: 100%;
+}
+aside{
+    margin: 1em;
+    display: block;
+    float: left;
+    display: inline;
+    width: 50%;
+    float: left;
+    height: 85vh;
+}
