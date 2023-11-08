@@ -1,0 +1,61 @@
+*{box-sizing: border-box;}
+header{
+    height: 15vh;
+    border: black 2px solid;
+    border-radius: 15px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em;
+    margin: 3vh;
+}
+nav{
+    text-align: center;
+    height: 7vh;
+}
+li{
+    list-style-type: none;
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.navegacio{
+    border: outset;
+    padding: 3px;
+}
+.navegacio:hover{border: inset;}
+
+footer{
+    width: 100%;
+    height: 10vh;
+    margin: 0;
+    padding: 1em;
+    padding-top: 0.25em;
+    text-align: center;
+}
+
+#copyright{
+    width: 50%;
+    font-weight: bold;
+    float: left;
+    text-decoration: underline;
+}
+#links{
+    width: 50%;
+    float: left;
+}
+#links ul li a{
+    margin: 0.7em;
+    padding: 3px;
+}
+
+#links ul li a:hover{
+    text-decoration: underline;
+    border: black 2px solid;
+    border-radius: 3px;
+}
