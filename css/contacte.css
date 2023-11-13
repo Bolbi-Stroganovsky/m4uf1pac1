@@ -11,6 +11,14 @@ iframe{
     border-radius: 4px;
     margin-bottom: 2em;
 }
+#informacio{
+    text-align: center;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    padding: 1em;
+    height: 70vh;
+    border-radius: 3px;
+}
 h2{
     text-align: center;
 }
