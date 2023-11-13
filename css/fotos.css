@@ -6,11 +6,11 @@ img{
     display: block;
     float: left;
     width: 50%;
-    max-height: 100vh;
+    max-height: 95vh;
     border-radius: 5px;
 }
 #vertical{
-    max-height: 300vh;
+    max-height: 500vh;
 }
 #ultima{
     width: 100%;
